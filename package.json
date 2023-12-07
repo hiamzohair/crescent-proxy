@@ -1,7 +1,7 @@
 {
-    "name": "@titaniumnetwork-dev/ultraviolet",
+    "name": "crescent moon proxy",
     "version": "2.0.0",
-    "description": "Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!",
+    "description": "the offical browser of crescent moon games. forked from uv.",
     "main": "lib/index.cjs",
     "license": "MIT",
     "repository": {
